@@ -4,7 +4,6 @@ A lightweight graph learning framework for single-cell transcriptomics.
 Supports 5-fold cross-validation, optional dynamic graph (kNN), contrastive learning, and multiple long-tail friendly loss functions.
 
 ---
-
 ## Installation
 
 We recommend **Python ≥ 3.9** and **PyTorch ≥ 2.0**.  
